@@ -1,2 +1,3 @@
-# operating system kernel that handle keyboard and monitor.
+# SammanticOS.
+operating system kernel that handle keyboard and monitor
 
